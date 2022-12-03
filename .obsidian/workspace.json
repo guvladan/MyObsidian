@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "070cd7744d30fafa",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa27c81a8c860852",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "093a80a8b638d539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сферобол/Глава 1..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82d8278224a0e4d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "020951d93e357f5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cfe7b94a9cc1f70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58e7eeae84c41cbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07387fbb31b96a75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b116e679f4a26885",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d385fff882bfa0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2740ac935ed46ce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1ff12ba0b028adb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a91c69732e9b59e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "700870c57361d364",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb68f93862f70051",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "82d8278224a0e4d1",
+  "lastOpenFiles": [
+    "Сферобол/Без названия 1.md",
+    "Сферобол/Глава 1..md",
+    "Без названия.md"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "4ed99d46affc20dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f0bc9bd0a40c750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e171d3833000c0db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глава 1..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61fe5b65f6468cc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4de9d5676a45bf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec919aee8c9a9071",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "101ad234dbf2ce09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc11ec23667f8e85",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "28b48ee94201b5be",
+    "type": "split",
+    "children": [
+      {
+        "id": "68b15858bde2830e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ddb14c9a518720f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Глава 1..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa27f9c6fb10d540",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Глава 1..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3838511b5e2a256",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e1f0645b8ff7729",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Глава 1..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e171d3833000c0db",
+  "lastOpenFiles": []
+}
